@@ -1,7 +1,7 @@
 {
-  "name": "Kahve Orman QR Menu",
-  "short_name": "Kahve Orman QR Menu",
-  "description": "Kahve Orman QR Menu Uygulaması",
+  "name": "Lila QR Menu",
+  "short_name": "Lila QR Menu",
+  "description": "Lila QR Menu Uygulaması",
   "start_url": "/",
   "display": "fullscreen",
   "background_color": "#ffffff",

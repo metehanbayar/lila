@@ -217,11 +217,11 @@
   },
   {
     "id": "gc2etjh2b",
-    "name": "Kahve Orman Karışık Tost",
+    "name": "Lila Karışık Tost",
     "description": "Ayvalık Tost Ekmeği Arasına Kaşar Peyniri, Sucuk, Sosis Ve Dana Jambon Yanında Domates Ve Salatalık İle Servis Edilir.",
     "price": "220",
     "category": "Tost",
-    "image": "/dishes/Kahve Orman-karisik-tost.jpg",
+    "image": "/dishes/Lila-karisik-tost.jpg",
     "categoryImage": "/categories/tost.jpg",
     "features": []
   },
@@ -659,11 +659,11 @@
   },
   {
     "id": "d5hgj2ffr",
-    "name": "Kahve Orman Burger",
+    "name": "Lila Burger",
     "description": "Ev Yapımı Köfte, Karamelize Soğan, Kıvırcık Marul, Domates, Turşu Ve Özel Soslarla Hazırlanarak Cips Ve Soslar İle Servis Edilir. ",
     "price": "320",
     "category": "Burger",
-    "image": "/dishes/Kahve Orman-burger.jpg",
+    "image": "/dishes/Lila-burger.jpg",
     "categoryImage": "/categories/burger.jpg",
     "features": [
       {
@@ -1037,11 +1037,11 @@
   },
   {
     "id": "j904z5km5",
-    "name": "Kahve Orman Pizza",
+    "name": "Lila Pizza",
     "description": "El Açması İncecik Hamur Özel Sos, Mozarella Peyniri, Sosis, Sucuk, Dana Jambon, Mantar Ve Domates.",
     "price": "240",
     "category": "Pizza",
-    "image": "/dishes/Kahve Orman-pizza.jpg",
+    "image": "/dishes/Lila-pizza.jpg",
     "categoryImage": "/categories/pizza.jpg",
     "features": [],
     "variations": [
@@ -1335,9 +1335,9 @@
     "name": "Tavuklu Döküm",
     "description": "Julyen doğranmış tavuk gögüs parçaları özel sosu ile pişirilerek üzerine eritme kaşar ile döküm tavada servis edilir.",
     "price": "380",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/tavuklu-dokum.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1345,9 +1345,9 @@
     "name": "Etli Döküm",
     "description": "Julyen doğranmış bonfile parçaları özel sosu ile  pişirilerek üzerine eritme kaşar ile döküm tavada servis edilir.",
     "price": "460",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/etli-dokum.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1363,7 +1363,7 @@
   {
     "id": "qawkgdvf8",
     "name": "Tavuk But Biftek Izgara",
-    "description": "Izgarada Hazırlanan Kahve Orman'ya Özel Tavuk But, Cips ve Mevsim Yeşillikleri ile Servis Edilir.",
+    "description": "Izgarada Hazırlanan Lila'ya Özel Tavuk But, Cips ve Mevsim Yeşillikleri ile Servis Edilir.",
     "price": "350",
     "category": "Tavuk Yemekleri",
     "image": "/dishes/tavuk-but-biftek-izgara.jpg",
@@ -1415,9 +1415,9 @@
     "name": "Osmanlı Tavuk Kavurma",
     "description": "Kuşbaşı doğranmış Tavuk, Arpacık Soğan, Sarımsak, Kapya Biber ve Yeşil Biber İle Fırınlanarak Servis Edilir.",
     "price": "350",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/osmanli-tavuk-kavurma.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1453,7 +1453,7 @@
   {
     "id": "0328dzny5",
     "name": "Tavuk Külbastı",
-    "description": "Izgarada Hazırlanan Kahve Orman'ya Özel Tavuk Göğsü, Mevsim Yeşillikleri ile Servis Edilir.",
+    "description": "Izgarada Hazırlanan Lila'ya Özel Tavuk Göğsü, Mevsim Yeşillikleri ile Servis Edilir.",
     "price": "350",
     "category": "Tavuk Yemekleri",
     "image": "/dishes/tavuk-kulbasti.jpg",
@@ -1472,11 +1472,11 @@
   },
   {
     "id": "57593726v",
-    "name": "Bazlamalı Kahve Orman Tavuk",
+    "name": "Bazlamalı Lila Tavuk",
     "description": "Özel Soslu Bazlama Ekmeği Üzerinde Domates Soslu Jülyen Tavuk, Cips Ve Közlenmiş Domates, Biber İle Servis Edilir. ",
     "price": "380",
     "category": "Tavuk Yemekleri",
-    "image": "/dishes/bazlamali-Kahve Orman-tavuk.jpg",
+    "image": "/dishes/bazlamali-Lila-tavuk.jpg",
     "categoryImage": "/categories/tavuk-yemekleri.jpg",
     "features": []
   },
@@ -1525,9 +1525,9 @@
     "name": "Güveçte Tavuk Sote",
     "description": "Mix biberler, kuru soğan, kültür mantarı, domates, sarımsak ile sotelenen tavuk bonfilesinin eritme kaşar ile buluşması.",
     "price": "350",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/guvecte-tavuk-sote.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1582,11 +1582,11 @@
   },
   {
     "id": "xp02lzfal",
-    "name": "Kahve Orman Köfte",
+    "name": "Lila Köfte",
     "description": "Özel Soslu Bazlama Ekmeği Üzerinde Domates Soslu Ev Yapımı Köfte, Cipsi Ve Közlenmiş Domates, Biber İle Servis Edilir.",
     "price": "400",
     "category": "Et Yemekleri",
-    "image": "/dishes/Kahve Orman-kofte.jpg",
+    "image": "/dishes/Lila-kofte.jpg",
     "categoryImage": "/categories/et-yemekleri.jpg",
     "features": [
       {
@@ -1610,9 +1610,9 @@
     "name": "Osmanlı Et Kavurma",
     "description": "Kuşbaşı et , Arpacık Soğan, Sarımsak, Kapya Biber ve Yeşil Biber İle Fırınlanarak Servis Edilir.",
     "price": "420",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/osmanli-et-kavurma.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1620,9 +1620,9 @@
     "name": "Güveçte Et Sote",
     "description": "Mix biberler, kuru soğan, kültür mantarı, domates, sarımsak, dana bonfilenin sotelenerek üzerine eritme kaşar ile güveçte sunulur.",
     "price": "405",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/guvecte-et-sote.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1637,11 +1637,11 @@
   },
   {
     "id": "w2676ol8x",
-    "name": "Pideli Kahve Orman Tava",
+    "name": "Pideli Lila Tava",
     "description": " Lavaş pide üzerine julyen doğranmış et ,sarımsak,köz biber,köz domates,patates kızartması beraberinde mevsim yeşillikleri ile servis edilir.",
     "price": "480",
     "category": "Et Yemekleri",
-    "image": "/dishes/pideli-Kahve Orman-tava.jpg",
+    "image": "/dishes/pideli-Lila-tava.jpg",
     "categoryImage": "/categories/et-yemekleri.jpg",
     "features": []
   },
@@ -1660,9 +1660,9 @@
     "name": "Tavuk Fajita",
     "description": "Izgara da pişmiş tavuk bonfilesi mix biberler kuru soğan  Meksika fasulyesi sotesi beraberinde dip soslar ve tortilla ekmeği ile servis edilir.",
     "price": "400",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/tavuk-fajita.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": [
       {
         "name": "💯",
@@ -1675,9 +1675,9 @@
     "name": "Et Fajita",
     "description": "Izgara da pişmiş dana bonfilesi mix biberler kuru soğan Meksika fasulyesi sotesi beraberinde dip soslar ve tortilla ekmeği ile servis edilir.",
     "price": "460",
-    "category": "Kahve Orman Döküm Lezzetler",
+    "category": "Lila Döküm Lezzetler",
     "image": "/dishes/et-fajita.jpg",
-    "categoryImage": "/categories/Kahve Orman-dokum-lezzetler.jpg",
+    "categoryImage": "/categories/Lila-dokum-lezzetler.jpg",
     "features": []
   },
   {
@@ -1845,7 +1845,7 @@
       },
       {
         "id": "vfqcb5eap",
-        "name": "Kahve Orman Pizza",
+        "name": "Lila Pizza",
         "price": "450"
       },
       {
@@ -1922,7 +1922,7 @@
       },
       {
         "id": "ap791oe4m",
-        "name": "Kahve Orman Pizza",
+        "name": "Lila Pizza",
         "price": "670"
       },
       {
@@ -1999,7 +1999,7 @@
       },
       {
         "id": "l8ihf3ygq",
-        "name": "Kahve Orman Pizza",
+        "name": "Lila Pizza",
         "price": "870"
       },
       {
@@ -2076,7 +2076,7 @@
       },
       {
         "id": "my6026acc",
-        "name": "Kahve Orman Pizza",
+        "name": "Lila Pizza",
         "price": "1350"
       },
       {

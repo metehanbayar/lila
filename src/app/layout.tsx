@@ -16,7 +16,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Kahve Orman QR Menu",
+  title: "Lila QR Menu",
   description: "QR Menu Uygulaması",
   manifest: "/manifest.json",
   themeColor: '#000000',

@@ -3,7 +3,7 @@
 export type {};
 declare let self: ServiceWorkerGlobalScope;
 
-const CACHE_NAME = 'Kahve Orman-bistro-cache-v1';
+const CACHE_NAME = 'Lila-bistro-cache-v1';
 
 // Önbelleğe alınacak dosyalar
 const PRECACHE_ASSETS = [
