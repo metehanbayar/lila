@@ -1,0 +1,26 @@
+{
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 5203,
+    "files": [
+      "static/chunks/203.2b4c1ee4fbe3a7cf.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 6218,
+    "files": [
+      "static/chunks/218.dc8bcaf0a25fd997.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/modals/AiModal": {
+    "id": 9093,
+    "files": [
+      "static/chunks/93.67e5c9b6983c96c7.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/modals/SearchModal": {
+    "id": 7667,
+    "files": [
+      "static/chunks/667.964234301f4d842e.js"
+    ]
+  }
+}
