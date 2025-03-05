@@ -32,11 +32,11 @@ ENV NEXT_TELEMETRY_DISABLED 1
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
 
-# Copy built files
-COPY --from=builder /workspace/public ./public
-COPY --from=builder /workspace/.next/standalone ./
-COPY --from=builder /workspace/.next/static ./.next/static
-COPY --from=builder /workspace/server.js ./server.js
+# Copy necessary files
+COPY --from=builder --chown=nextjs:nodejs /workspace/public ./public
+COPY --from=builder --chown=nextjs:nodejs /workspace/.next/standalone ./
+COPY --from=builder --chown=nextjs:nodejs /workspace/.next/static ./.next/static
+COPY --from=builder --chown=nextjs:nodejs /workspace/server.js ./
 
 USER nextjs
 
