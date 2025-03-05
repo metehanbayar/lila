@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  basePath: '/next',
-  assetPrefix: '/next',
+  output: 'standalone',
   images: {
     domains: ['placehold.co'],
   },
@@ -30,8 +29,7 @@ const nextConfig = {
         ],
       },
     ]
-  },
-  output: 'standalone',
+  }
 }
 
 module.exports = nextConfig 
