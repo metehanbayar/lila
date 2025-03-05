@@ -15,14 +15,9 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
-# Next.js collects completely anonymous telemetry data about general usage.
-# Learn more here: https://nextjs.org/telemetry
-# Uncomment the following line in case you want to disable telemetry during the build.
 ENV NEXT_TELEMETRY_DISABLED 1
-
 ENV NODE_ENV production
 
-# Build Next.js
 RUN npm run build
 
 # Production image, copy all the files and run next
@@ -35,14 +30,15 @@ ENV NEXT_TELEMETRY_DISABLED 1
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
 
+# Dizinleri oluştur ve izinleri ayarla
+RUN mkdir -p /app/public/dishes /app/public/categories && \
+    chown -R nextjs:nodejs /app/public
+
 # Copy standalone output and static files
 COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
 COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
 COPY --from=builder --chown=nextjs:nodejs /app/next.config.js ./
-
-# Set the correct permissions
-RUN chmod 755 /app
 
 USER nextjs
 
@@ -51,4 +47,4 @@ EXPOSE 3000
 ENV PORT 3000
 ENV HOSTNAME "0.0.0.0"
 
-CMD ["node", "server.js"] 
+CMD ["node", "server.js"]
