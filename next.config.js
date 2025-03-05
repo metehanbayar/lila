@@ -2,6 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'standalone',
+  distDir: '.next',
+  trailingSlash: false,
   images: {
     domains: ['placehold.co'],
     unoptimized: true
