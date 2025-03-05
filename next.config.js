@@ -4,6 +4,7 @@ const nextConfig = {
   output: 'standalone',
   images: {
     domains: ['placehold.co'],
+    unoptimized: true
   },
   env: {
     MSSQL_USER: process.env.MSSQL_USER,
