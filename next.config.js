@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  basePath: '/next',
+  assetPrefix: '/next',
   images: {
     domains: ['placehold.co'],
   },
@@ -12,7 +14,7 @@ const nextConfig = {
   },
   experimental: {
     serverActions: {
-      allowedOrigins: ['localhost:3000']
+      allowedOrigins: ['localhost:3000', 'qr.lila.company']
     }
   },
   // PWA config

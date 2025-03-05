@@ -6,14 +6,15 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "3000:3000"
+      - "127.0.0.1:3000:3000"
     environment:
       - NODE_ENV=production
+      - HOSTNAME=localhost
+      - PORT=3000
     restart: always
-    # Eğer MSSQL bağlantınız varsa, network tanımlaması ekleyin
-    # networks:
-    #   - app_network
+    networks:
+      - app_network
 
-# networks:
-#   app_network:
-#     driver: bridge 
+networks:
+  app_network:
+    driver: bridge 
